@@ -10,3 +10,8 @@ http://iopscience.iop.org/article/10.1088/0034-4885/53/7/001/pdf
 
 Chandrasekhar (1935)
 http://articles.adsabs.harvard.edu/full/1935MNRAS..95..207C
+
+Thermodynamics & Statistical Mechanics
+http://farside.ph.utexas.edu/teaching/sm1/statmech.pdf
+
+David Park: Introduction to the Quantum Theory
