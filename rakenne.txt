@@ -1,0 +1,18 @@
+
+
+
+1. Johdanto
+
+2.  Relaation johto
+  2.1 Oletukset/approksimaatiot
+  2.2 itse johto
+  2.3 kuvaaja tuloksesta
+3. Tarkempi relaatio
+  3.1 selitykset miten tarkennetaan
+  3.2 Seuraukset/Chandrasekhar limit
+  3.3 kuvaaja
+
+4. Johtopäätökset
+
+5. Lähteet
+
