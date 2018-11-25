@@ -18,5 +18,18 @@ David Park: Introduction to the Quantum Theory
 
 Chan limit: arxiv.org/pdf/astro-ph/0702351v1.pdf
 
+Lopulliset käytetyt lähteet:
+
+G. Fontaine, P. Brassard & P. Bergeron 2001. The Potential of White Dwarf Cosmochronology. Astronomical Society of the Pacific 113, 409–435.
+R. Fitzpatrick 2006. Thermodyamics and Statistical Mechanics. The University of Texas at Austin.
+O. Straniero, I. Domínguez, G. Imbriani & L. Piersanti 2003. The Chemical Composition of White Dwarfs as a Test of Convective Efficiency during Core Helium Burning. The Astrophysical Journal 583, 878–884.
+J. P. Cox & R. T. Giuli 2004. Cox & Giuli's principles of stellar structure. Cambridge Scientific Publishers. 
+D. Koester, G. Chanmugam 1990. Physics of white dwarf stars. Reports on Progress in Physics 53, 837-915.
+I. Sagert, M Hempel, C. Greiner & J. Schaffner–Bielich 2006. Compact Stars for Undergraduates. European Journal of Physics, Volume 27, Number 3.
+G. A. Carvalho, R. M. Marinho Jr & M. Malheiro 2015. Mass-Radius diagram for compact stars. Journal of Physics: Conference Series 630.
+P. A. Mazzali, F. K. Röpke, S. Benetti, W. Hillebrandt 2007. A Common Explosion Mechanism for Type Ia Supernovae. Science 5813, 825-828.
+
+
+
 
 
