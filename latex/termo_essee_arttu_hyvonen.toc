@@ -1,5 +1,12 @@
 \select@language {finnish}
 \contentsline {section}{\numberline {1}Johdanto}{1}{section.1}
-\contentsline {section}{\numberline {2}Osa1}{2}{section.2}
-\contentsline {section}{\numberline {3}Johtop\IeC {\"a}\IeC {\"a}t\IeC {\"o}kset}{3}{section.3}
-\contentsline {section}{\numberline {4}L\IeC {\"a}hdeluettelo}{4}{section.4}
+\contentsline {section}{\numberline {2}Valkoisten k\IeC {\"a}\IeC {\"a}pi\IeC {\"o}iden ominaisuuksia}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Koostumus}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Degeneroituminen}{2}{subsection.2.2}
+\contentsline {section}{\numberline {3}Massa-s\IeC {\"a}de relaatio}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Ei-relativistinen}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Eritt\IeC {\"a}in relativistinen}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Yleisempi relaatio}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Chandrasekharin raja}{7}{subsection.3.4}
+\contentsline {section}{\numberline {4}Johtop\IeC {\"a}\IeC {\"a}t\IeC {\"o}kset}{8}{section.4}
+\contentsline {section}{\numberline {5}L\IeC {\"a}hdeluettelo}{9}{section.5}

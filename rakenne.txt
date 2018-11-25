@@ -3,16 +3,21 @@
 
 1. Johdanto
 
-2.  Relaation johto
-  2.1 Oletukset/approksimaatiot
-  2.2 itse johto
-  2.3 kuvaaja tuloksesta
-3. Tarkempi relaatio
-  3.1 selitykset miten tarkennetaan
-  3.2 Seuraukset/Chandrasekhar limit
-  3.3 kuvaaja
+2. Oletukset/approksimaatiot/efektit
+  2.1 Fermi kaasu
+  2.2 Degeneroituminen
+  2.3 Lämpötila
+  2.4 Muut
+3. itse johto
+  3.1 Ei relativistinen
+  3.2 relativistinen
+  3.3 kuvaaja tuloksesta
+4. Seuraukset + Tarkempi relaatio
+  4.1 Seuraukset/Chandrasekhar limit
+  4.2 selitykset miten tarkennetaan
+  4.3 kuvaaja
 
-4. Johtopäätökset
+5. Johtopäätökset
 
-5. Lähteet
+6. Lähteet
 

@@ -15,3 +15,8 @@ Thermodynamics & Statistical Mechanics
 http://farside.ph.utexas.edu/teaching/sm1/statmech.pdf
 
 David Park: Introduction to the Quantum Theory
+
+Chan limit: arxiv.org/pdf/astro-ph/0702351v1.pdf
+
+
+

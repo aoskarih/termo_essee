@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.31)  14 NOV 2018 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.31)  25 NOV 2018 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2457,6 +2457,11 @@ l.70 \newpage
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 78.
 
+Overfull \hbox (30.67145pt too wide) in paragraph at lines 84--85
+[]\OT1/cmr/m/n/12 T[]ass[]a es-seess[]a sel-vi-tet[]a[]an, mist[]a t[]am[]a val
+-kois-ten k[]a[]api[]oiden koon kum-mal-li-nen k[]aytt[]aytyminen
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2464,24 +2469,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 87.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 \newpage
+l.87 \newpage
               [1]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 81.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 89.
- [2]
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 98.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
@@ -2490,45 +2492,104 @@ Package Fancyhdr Warning: \headheight is too small (14.49998pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 93.
-[3]
+(babel)             in language  on input line 109.
+[2]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 110.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 145.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 145.
+ [3]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 161.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 173.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 173.
+ [4]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 180.
+ <mr1.png, id=113, 771.1209pt x 539.8569pt>
+File: mr1.png Graphic file (type png)
+ <use mr1.png>
+Package pdftex.def Info: mr1.png used on input line 185.
+(pdftex.def)             Requested size: 452.9679pt x 317.1289pt.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 190.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 190.
+ [5 <./mr1.png>] <mr2.png, id=126, 792.0792pt x 502.9992pt>
+File: mr2.png Graphic file (type png)
+ <use mr2.png>
+Package pdftex.def Info: mr2.png used on input line 199.
+(pdftex.def)             Requested size: 452.9679pt x 287.64888pt.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 204.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 206.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 206.
+ [6 <./mr2.png>]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 211.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 211.
+
+[7]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 212.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 219.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 219.
+ [8]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 220.
 
 No file termo_essee_arttu_hyvonen.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 103.
+(babel)             in language  on input line 231.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 103.
-[4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
+(babel)             in language  on input line 231.
+[9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
  (./termo_essee_arttu_hyvonen.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 231.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 231.
 Package rerunfilecheck Info: File `termo_essee_arttu_hyvonen.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 2DB0B0F296267166992CB0433B381F72;191.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 103.
+(rerunfilecheck)             Checksum: 9B9048C4B1CD9499BAF9E12B957D9049;690.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
  ) 
 Here is how much of TeX's memory you used:
- 19267 strings out of 493029
- 365141 string characters out of 6136233
- 409279 words of memory out of 5000000
- 22582 multiletter control sequences out of 15000+600000
- 14925 words of font info for 59 fonts, out of 8000000 for 9000
+ 19324 strings out of 493029
+ 365772 string characters out of 6136233
+ 416791 words of memory out of 5000000
+ 22607 multiletter control sequences out of 15000+600000
+ 15232 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,13n,72p,10432b,878s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,13n,72p,10432b,882s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on termo_essee_arttu_hyvonen.pdf (6 pages, 44571 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msbm10.pfb>
+Output written on termo_essee_arttu_hyvonen.pdf (11 pages, 197566 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
